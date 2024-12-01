@@ -1,0 +1,24 @@
+# Build directories
+cmake-build-debug/
+build/
+Debug/
+Release/
+
+# IDE specific files
+.idea/
+.vscode/
+*.suo
+*.user
+*.sln
+*.vcxproj
+*.vcxproj.filters
+
+# Compiled files
+*.exe
+*.obj
+*.dll
+*.pdb
+
+# OS specific files
+.DS_Store
+Thumbs.db
