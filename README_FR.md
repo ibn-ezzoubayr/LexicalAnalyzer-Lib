@@ -1,5 +1,7 @@
 # Bibliothèque d'Analyse Lexicale
 
+*Lire dans d'autres langues: [English](README.md), [العربية](README_AR.md)*
+
 Une bibliothèque C++ pour l'analyse lexicale et la simulation d'automates finis. Cette bibliothèque permet de créer et de travailler avec des matrices de transition pour les automates finis, de traiter des chaînes d'entrée et de vérifier l'acceptation des mots selon des règles définies.
 
 ## Fonctionnalités

@@ -1,5 +1,7 @@
 # Lexical Analyzer Library
 
+*Read this in other languages: [Français](README_FR.md), [العربية](README_AR.md)*
+
 A C++ library for lexical analysis and finite state machine simulation. This library allows you to create and work with transition matrices for finite state automata, process input strings, and verify word acceptance based on defined rules.
 
 ## Features
